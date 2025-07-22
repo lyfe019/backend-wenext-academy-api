@@ -1,0 +1,25 @@
+{
+  "name": "backend-wenext-academy-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyfe019/backend-wenext-academy-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lyfe019/backend-wenext-academy-api/issues"
+  },
+  "homepage": "https://github.com/lyfe019/backend-wenext-academy-api#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
